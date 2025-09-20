@@ -1,6 +1,6 @@
-**Creating and Enforcing Security Policies in Organisations.**
+# Creating and Enforcing Security Policies in Organisations.
 
-_Created by Samsudeen Olapade_.
+_**Created by Samsudeen Olapade**_.
 1. Introduction
 Security policies are the backbone of an organisation’s cybersecurity framework. They provide clear guidelines for how employees, contractors, and third parties should handle information systems, networks, and data. Using industry-recognized standards such as the SANS Institute policy templates, organizations can ensure their security practices are consistent, enforceable, and aligned with best practices.
 
